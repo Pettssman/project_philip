@@ -1,0 +1,15 @@
+theme: xxxx
+status: xxxx
+start_date: 2026-02-15
+end_date: 2026-03-15
+weekly_hour_limit: x
+
+success_criteria:
+  - Train and evaluate one ML model
+  - Deploy simple demo
+  - Write summary notes
+
+metrics:
+  hours_spent: 0
+  sessions_completed: 0
+
