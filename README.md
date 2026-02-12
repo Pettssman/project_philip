@@ -3,7 +3,7 @@
 ## Current Cycle
 Cycle: 1 \
 Theme: Typing speed \
-Duration: 2026-02-15 → 2026-03-15 \
+Duration: 2026-02-15 → 2026-03-15 
 
 Success Criteria:
 - Improve typing speed
